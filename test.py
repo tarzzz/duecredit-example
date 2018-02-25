@@ -1,3 +1,3 @@
-from module import my_function
+from mymodule.module import my_function
 
 my_function()
